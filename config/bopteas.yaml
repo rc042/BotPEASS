@@ -23,6 +23,9 @@ DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
+- zabbix
+- suse
+- sap
 - sudo
 - docker
 - kubernetes
